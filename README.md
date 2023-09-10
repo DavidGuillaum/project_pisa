@@ -51,13 +51,13 @@ The goals of this project are the following:
 ## Structure
 This project  structure is the following (it was one of my first project and it could optimized by adding a folder "data"):  
 
-- Part_I_exploration_PISA.ipynb #main file with the exploration parts
-- Part_II_exploration_PISA.ipynb #main file with the exploration parts
 - df_dig.csv #cleaned data
 - df_lang.csv #cleaned data
 - df_pBack.csv #cleaned data
 - Part_II_slide_deck_PISA.slides.html #slides presentation
 - README.md
+- Part_I_exploration_PISA.ipynb #main file with the exploration parts
+- Part_II_exploration_PISA.ipynb #file to create the slide 
 
 <br>
 
